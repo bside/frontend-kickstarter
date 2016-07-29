@@ -1,0 +1,52 @@
+{
+	/* enforcing */
+	"bitwise": true,
+	"curly": true,
+	"eqeqeq": true,
+	"esversion": true,
+	"forin": true,
+	"freeze": true,
+	"funcscope": false,
+	"futurehostile": true,
+	"globals": {
+		"after": true,
+		"before": true,
+		"console": true,
+		"define": true,
+		"describe": true,
+		"it": true,
+		"requirejs": true,
+		"window": true,
+		"xdescribe": true,
+		"xit": true
+	},
+	"iterator": false,
+	"latedef": true,
+	"maxdepth": 6,
+	"maxerr": 4,
+	"maxparams": 5,
+	"noarg": true,
+	"nocomma": true,
+	"nonbsp": true,
+	"nonew": true,
+	"notypeof": false,
+	"shadow": false,
+	"singleGroups": true,
+	"strict": "global",
+	"undef": true,
+	"unused": false,
+	"varstmt": false,
+
+	/* relaxing */
+	"debug": true,
+	"elision": true,
+	"eqnull": true,
+
+	/* env */
+	"browser": true,
+	"browserify": true,
+	"devel": true,
+	"jquery": true,
+	"node": true,
+	"worker": true
+}

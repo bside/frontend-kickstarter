@@ -1,0 +1,16 @@
+{
+	"name": "frontend-kickstarter",
+	"version": "0.0.1",
+	"description": "Proyecto que facilita el flujo de trabajo para desarrollos frontend.",
+	"homepage": "http://code.cl",
+	"authors": [
+		"Alvaro Gonzalez <alvaro@code.cl>"
+	],
+	"license": "GPL-3.0",
+	"private": true,
+	"dependencies": {},
+	"devDependencies": {
+		"bootstrap": "^3.3.7",
+		"requirejs": "^2.2.0"
+	}
+}
